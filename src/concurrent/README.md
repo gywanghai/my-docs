@@ -1,5 +1,5 @@
 ---
-title: 浅谈并发编程
+title: 并发编程
 index: false
 icon: discover
 category:
